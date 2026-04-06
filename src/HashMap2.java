@@ -17,7 +17,7 @@ public class HashMap2 {
                 //val line lo hash table value vastadi kani manaki key kavali so we take key name :likith
 
             }
-        }
+        } 
         System.out.println(ans);
     }
 }
